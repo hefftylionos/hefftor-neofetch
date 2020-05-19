@@ -1,1 +1,0 @@
-# ArcoLinux-Neofetch-config
